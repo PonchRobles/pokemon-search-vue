@@ -1,4 +1,5 @@
-# pokedex-vue
+
+# pokedex-vuejs
 
 ## Project setup
 ```

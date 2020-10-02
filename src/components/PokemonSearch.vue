@@ -1,7 +1,7 @@
 <template>
   <div class="searchbar">
     <form @submit.prevent="setPokemonUrl">
-      <input type="text" v-model="searchvalue">
+      <input type="text" v-model="searchvalue" placeholder="Type number or name Pokemon...">
     </form>
     <i class="fas fa-search" @click="setPokemonUrl"></i>
   </div>
